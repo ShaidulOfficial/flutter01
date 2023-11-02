@@ -42,7 +42,7 @@ class HomeActivity extends StatelessWidget {
                   icon: Icon(Icons.adb),
                   text: "android",
                 ),
-                Tab(icon: Icon(Icons.home), text: "Home"),
+                Tab(icon: Icon(Icons.home), text: "BariGhor"),
                 Tab(icon: Icon(Icons.settings), text: "Settings"),
                 Tab(icon: Icon(Icons.delivery_dining), text: "Add"),
                 Tab(icon: Icon(Icons.eight_mp_rounded), text: "Map"),
